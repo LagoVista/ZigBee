@@ -1,0 +1,11 @@
+﻿{
+  "supports": {},
+  "dependencies": {
+    "LagoVista.Core": "0.8.9-alpha00674",
+    "NETStandard.Library": "1.6.0"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.6,Profile=Profile44": {},
+    "netstandard1.2": {}
+  }
+}
